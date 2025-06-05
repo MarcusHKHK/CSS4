@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ffffff;
+}
+.container {
+  width: 100%;
+}
+.banner {
+  height: 480px;
+  padding: 80px;
+  text-align: center;
+  background: url(/CSSKT/coolbackgrounds-particles-oxygen.png);
+  position: relative;
+}
+.profilepic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 10px solid #d4af37;
+}
+.pealkiri {
+  font-size: 100px;
+  color: white;
+  margin: 10px;
+}
+.slogan {
+  font-size: 30px;
+  color: white;
+  font-style: italic;
+}
+.sisu {
+  height: 600px;
+  padding: 80px;
+  box-sizing: border-box;
+}
+.picture {
+  width: 600px;
+  height: 100px;
+  margin: 100px 0;
+  float: left;
+}
+.tekst {
+  font-size: 20px;
+  line-height: 2.0;
+  margin-left: 620px;
+}
+.footer {
+  padding: 40px;
+  background-color: #d8d400;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+}
