@@ -10,7 +10,7 @@ body {
   height: 480px;
   padding: 80px;
   text-align: center;
-  background: url(/CSSKT/coolbackgrounds-particles-oxygen.png);
+  background: url(./CSSKT/coolbackgrounds-particles-oxygen.png);
   position: relative;
 }
 .profilepic {
